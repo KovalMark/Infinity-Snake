@@ -1,24 +1,24 @@
 # Infinity Snake
 
-Здравствуйте! Рад представить Вам игру Infinity Snake, написанную с использованием фреймворка SpriteKit.
+Hello! I am glad to present you the Infinity Snake game, written using the SpriteKit framework.
 
-## Описание приложения:
+## Application Description:
 
-### Загрузочный экран
-+ По центру расположена ImageView со стилизованным названием игры.
+### Load Screen
++ In the center is an ImageView with a stylised name of the game.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/LoadScreen.png)
 
-### Стартовый экран
-+ На стартовом экране присутствует ImageView с названием игры.
-+ Кнопка запускающая игровой процесс.
-+ Анимированная строка с описанием.
+### Start screen
++ There is an ImageView with the name of the game on the start screen.
++ Button that starts the gameplay.
++ Animated description line.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/StartScreen.png)
 
-### Игровой экран
-+ Разработана движущаяся змейка с определенной скоростью.
-+ Змейка накапливает в себе все "съеденные" яблоки.
-+ Управление змейкой осуществляется кнопками, которыми можно менять направление движения влево/вправо.
-+ При соприкосновении с границей экрана игра перезапускается.
-+ При свайпе экрана вниз, появляется стартовый экран.
+### Game screen
++ A moving snake with a certain speed has been developed.
++ The snake accumulates all the "eaten" apples.
++ The snake is controlled by buttons that can change the direction of movement to the left / right.
++ When touching the border of the screen, the game restarts.
++ When the screen is swiped down, the start screen appears.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/StartGame.png)
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/Game%2B.png)
