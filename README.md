@@ -21,4 +21,4 @@ Hello! I am glad to present you the Infinity Snake game, written using the Sprit
 + When touching the border of the screen, the game restarts.
 + When the screen is swiped down, the start screen appears.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/StartGame.png)
-    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/Game%2B.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SI/Game.png)
